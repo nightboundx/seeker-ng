@@ -27,9 +27,9 @@ I will add screenshots shortly.
 
 - Python 3.7+
 - PyQt5
-- `airodump-ng` (part of the `aircrack-ng` suite)
-- Linux with wireless hardware that supports monitor mode
-- `sudo` privileges if running outside Docker
+- airodump-ng
+- Linux based
+- Antenna which supports monitoring mode 
 
 ---
 
